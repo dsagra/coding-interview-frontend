@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "appTitle": "Currency Exchange",
+  "haveLabel": "HAVE",
+  "wantLabel": "WANT",
+  "cryptoLabel": "Crypto",
+  "fiatLabel": "Fiat",
+  "estimatedRateLabel": "Estimated rate",
+  "receiveLabel": "You will receive",
+  "estimatedTimeLabel": "Estimated time",
+  "changeButtonLabel": "Swap",
+  "operationSummaryTitle": "Operation summary",
+  "sellingLabel": "You're selling",
+  "buyingLabel": "You're buying",
+  "summaryReceiveLabel": "You will receive",
+  "summaryRateLabel": "Rate",
+  "summaryStatusLabel": "Status",
+  "summaryTimeLabel": "Time",
+  "summaryQuoteReady": "Quote ready",
+  "summaryQuoteMissing": "No quote",
+  "summaryCloseAndResetButton": "Close and reset",
+  "summaryDescription": "The Swap button confirms the operation and resets the screen when you close this summary.",
+  "loadingLabel": "Loading...",
+  "noOffersToast": "No offers are available for this combination.",
+  "unavailableTitle": "We cannot operate right now",
+  "unavailableLoadFailedDescription": "We couldn't load the available currencies. Please try again in a few seconds.",
+  "unavailableEmptyDescription": "There are no enabled currencies available right now.",
+  "unavailableInvalidDescription": "The received currency configuration is invalid. Try refreshing to load it again.",
+  "unavailableRetryAction": "Retry",
+  "unavailableUpdateAction": "Refresh",
+  "currencySubtitleVES": "Venezuelan bolívars (Bs)",
+  "currencySubtitleCOP": "Colombian pesos (COP$)",
+  "currencySubtitlePEN": "Peruvian soles (S/)",
+  "currencySubtitleBRL": "Brazilian real (R$)",
+  "genericErrorMessage": "Error: {error}",
+  "@genericErrorMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "@@locale": "es",
+  "appTitle": "Intercambio de divisas",
+  "haveLabel": "TENGO",
+  "wantLabel": "QUIERO",
+  "cryptoLabel": "Cripto",
+  "fiatLabel": "FIAT",
+  "estimatedRateLabel": "Tasa estimada",
+  "receiveLabel": "Recibirás",
+  "estimatedTimeLabel": "Tiempo estimado",
+  "changeButtonLabel": "Cambiar",
+  "operationSummaryTitle": "Resumen de operación",
+  "sellingLabel": "Vas a vender",
+  "buyingLabel": "Vas a comprar",
+  "summaryReceiveLabel": "Recibirás",
+  "summaryRateLabel": "Tasa",
+  "summaryStatusLabel": "Estado",
+  "summaryTimeLabel": "Tiempo",
+  "summaryQuoteReady": "Cotización lista",
+  "summaryQuoteMissing": "Sin cotización",
+  "summaryCloseAndResetButton": "Cerrar y reiniciar",
+  "summaryDescription": "El botón Cambiar confirma la operación y reinicia la pantalla al cerrar este resumen.",
+  "loadingLabel": "Cargando...",
+  "noOffersToast": "No hay ofertas disponibles para esa combinación.",
+  "unavailableTitle": "En estos momentos no podemos operar",
+  "unavailableLoadFailedDescription": "No pudimos cargar las monedas disponibles. Por favor, intenta nuevamente en unos segundos.",
+  "unavailableEmptyDescription": "No hay monedas habilitadas para operar en este momento.",
+  "unavailableInvalidDescription": "La configuración de monedas recibida no es válida. Intenta actualizar para volver a cargarla.",
+  "unavailableRetryAction": "Reintentar",
+  "unavailableUpdateAction": "Actualizar",
+  "currencySubtitleVES": "Bolivares (Bs)",
+  "currencySubtitleCOP": "Pesos Colombianos (COL$)",
+  "currencySubtitlePEN": "Soles Peruanos (S/)",
+  "currencySubtitleBRL": "Real Brasileno (R$)",
+  "genericErrorMessage": "Error: {error}",
+  "@genericErrorMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  }
+}
